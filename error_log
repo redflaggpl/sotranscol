@@ -1,0 +1,2 @@
+[15-Jun-2013 08:53:16] PHP Parse error:  syntax error, unexpected $end in /home/elficsof/public_html/sotranscol/protected/extensions/tcpdf/tcpdf/tcpdf.php on line 19440
+[21-Jun-2013 19:55:40] PHP Parse error:  syntax error, unexpected '}' in /home/elficsof/public_html/sotranscol/protected/models/Facturas.php on line 336
